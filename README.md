@@ -1,4 +1,4 @@
-# Breast-cancer-classification-usin-K-nearest
+# Breast-cancer-classification-using-K-nearest neighbor
 The Breast Cancer datasets is available UCI machine learning repository maintained by the University of California, Irvine.
 The dataset contains 569 samples of malignant and benign tumor cells.
 
